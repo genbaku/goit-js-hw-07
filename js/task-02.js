@@ -39,4 +39,3 @@ images.forEach((image) => {
   fragment.appendChild(listItem);
 });
 galleryContainer.appendChild(fragment);
-// galleryContainer.classList.add('gallery-container');
