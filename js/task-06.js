@@ -33,3 +33,4 @@ function destroyBoxes() {
 }
 createButton.classList.add('create-btn');
 destroyButton.classList.add('destroy-btn');
+input.classList.add('boxes-amount-input');
